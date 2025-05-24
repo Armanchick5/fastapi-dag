@@ -1,0 +1,21 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtualenv
+venv/
+.venv/
+
+# Env files
+.env
+
+# VSCode / JetBrains
+.vscode/
+.idea/
+
+# Docker
+*.log
+
+# Alembic
+alembic/versions/*.pyc

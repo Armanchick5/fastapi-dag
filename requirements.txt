@@ -1,0 +1,12 @@
+-fastapi
+-uvicorn[standard]
++python-dotenv
++fastapi
++uvicorn[standard]
+ SQLAlchemy
+ alembic
+ asyncpg
+ databases
+ pydantic
+ pytest
+ httpx
